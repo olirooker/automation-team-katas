@@ -1,0 +1,23 @@
+{
+  "name": "automation-team-katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "220704-roman-numeral-converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olirooker/automation-team-katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olirooker/automation-team-katas/issues"
+  },
+  "homepage": "https://github.com/olirooker/automation-team-katas#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
