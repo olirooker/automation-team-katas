@@ -8,6 +8,8 @@ Further Challenge: write a suite of tests to back up your code.
 Additional Further Challenge: Can you follow TDD principles for your development?
 */
 
-export const romanNumeralConverter = () => {
-
+const romanNumeralConverter = (numeral) => {
+    return numeral
 }
+
+module.exports = { romanNumeralConverter }

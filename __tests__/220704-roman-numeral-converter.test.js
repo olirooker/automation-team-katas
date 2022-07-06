@@ -1,7 +1,7 @@
-const { romanNumeralConverter } = require('../220704-roman-numeral-converter')
+const { romanNumeralConverter } = require('../220704-roman-numeral-converter.js')
 
-describe('romanNumeralConverter() takes roman numerals and converts them into decimals', () => {
+describe('romanNumeralConverter() takes roman numerals and converts them into decimals.', () => {
     test('Do something', () => {
-        expect().toEqual()
+        expect(romanNumeralConverter('XI')).toEqual('XI')
     });
 });
